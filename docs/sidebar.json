@@ -1,0 +1,11 @@
+{
+  "libs": {
+    "Overview": "/",
+    "Utils": "utils.html",
+    "Data Preprocessing": "preprocessing.html",
+    "Image Augmentation": "augment.html",
+    "Noise Reduction with U-Net": "noise-reduction.html",
+    "Classification Model": "classification_models.html",
+    "3D Image Classification": "classification.html"
+  }
+}
