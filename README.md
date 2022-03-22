@@ -10,3 +10,6 @@ We have developed a deep learning tool that enables detection of changes charact
 
 ## Code
 All code can be found in the `nbs` folder. The notebooks are sorted chronologically, according to the order in which the methodology is applied in the paper. 
+
+## Paper
+TBA
