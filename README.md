@@ -12,4 +12,15 @@ We have developed a deep learning tool that enables detection of changes charact
 All code can be found in the `nbs` folder. The notebooks are sorted chronologically, according to the order in which the methodology is applied in the paper. 
 
 ## Paper
-TBA
+```
+@article{bressem2022deep,
+  title={Deep learning detects changes indicative of axial spondyloarthritis at MRI of sacroiliac joints},
+  author={Bressem, Keno K and Adams, Lisa C and Proft, Fabian and Hermann, Kay Geert A and Diekhoff, Torsten and Spiller, Laura and Niehues, Stefan M and Makowski, Marcus R and Hamm, Bernd and Protopopov, Mikhail and others},
+  journal={Radiology},
+  volume={305},
+  number={3},
+  pages={655--665},
+  year={2022},
+  publisher={Radiological Society of North America}
+}
+```
